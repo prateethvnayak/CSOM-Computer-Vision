@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+opencv
+tensorflow-gpu==1.13.1
+keras
+cudnn
+cudatoolkit
