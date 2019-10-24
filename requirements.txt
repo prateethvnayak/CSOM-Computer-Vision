@@ -1,0 +1,6 @@
+numpy
+matplotlib
+scipy
+opencv-python
+tensorflow==1.13.1
+keras
