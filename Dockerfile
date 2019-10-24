@@ -32,10 +32,10 @@ RUN apt-get update \
     libfreetype6-dev libhdf5-serial-dev libzmq3-dev libjasper-dev \
     libavcodec-dev libavformat-dev libswscale-dev libxvidcore-dev \
     libx264-dev ffmpeg \
-    cuda-npp-dev-10.0 \
-    cuda-cublas-dev-10.0 \
-    cuda-cufft-dev-10.0 \
-    cuda-libraries-dev-10.0
+    cuda-npp-dev-10.1 \
+    cuda-cublas-dev-10.1 \
+    cuda-cufft-dev-10.1 \
+    cuda-libraries-dev-10.1
 
 # Install core python packages 
 RUN wget -q -O /tmp/get-pip.py --no-check-certificate https://bootstrap.pypa.io/get-pip.py \
