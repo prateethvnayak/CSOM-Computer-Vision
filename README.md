@@ -5,4 +5,4 @@ Notebooks tutorial for simple Computer Vision Task
 ## Open in Colab
 - [Object Classification](https://colab.research.google.com/github/prateethvnayak/CSOM-Computer-Vision/blob/master/Object%20Classification.ipynb#scrollTo=edav-XKWzIhx)
 
-- [Transfer Learning](https://colab.research.google.com/github/prateethvnayak/CSOM-Computer-Vision/blob/master/Transfer%20Learning.ipynb)
+- [Transfer Learning]()
